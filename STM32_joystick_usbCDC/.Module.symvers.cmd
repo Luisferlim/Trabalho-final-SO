@@ -1,0 +1,1 @@
+cmd_/home/luispc/linuxDrivers/STM32_joystick_usbCDC/Module.symvers :=  sed 's/ko$$/o/'  /home/luispc/linuxDrivers/STM32_joystick_usbCDC/modules.order | scripts/mod/modpost -m      -o /home/luispc/linuxDrivers/STM32_joystick_usbCDC/Module.symvers -e -i Module.symvers -T - 

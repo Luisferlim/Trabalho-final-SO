@@ -1,0 +1,1 @@
+cmd_/home/luispc/linuxDrivers/STM32_joystick_usbCDC/modules.order := {   echo /home/luispc/linuxDrivers/STM32_joystick_usbCDC/stm32_usb_joystick.ko; :; } > /home/luispc/linuxDrivers/STM32_joystick_usbCDC/modules.order
